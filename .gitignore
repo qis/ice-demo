@@ -1,0 +1,13 @@
+/*
+.*
+*.aps
+!/benchmarks/
+!/doc/
+!/res/
+!/src/
+!/tests/
+!/third_party/
+!/.gitignore
+!/CMakeLists.txt
+!/makefile
+!/readme.md
